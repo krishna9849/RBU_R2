@@ -1,0 +1,1 @@
+console.log(Integer.toBinary(8|4))
